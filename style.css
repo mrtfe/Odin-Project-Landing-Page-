@@ -122,3 +122,27 @@ section {
   color: #1f2937;
   text-align: center;
 }
+
+article {
+  background-color: #e5e7eb;
+  padding: 94px 0;
+}
+
+.quote-text {
+  font-size: 30px;
+  font-style: italic;
+  color: #1f2937;
+  padding-top: 30px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.quote-author {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  font-size: 18px;
+  font-weight: 700;
+  color: #1f2937;
+  justify-content: flex-end;
+}
